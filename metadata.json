@@ -1,0 +1,7 @@
+{
+  "name": "EcoScan: AI Waste Assistant",
+  "description": "A smart waste detection app that uses your camera and AI to identify items and suggest the correct disposal bin, helping you recycle more effectively.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
